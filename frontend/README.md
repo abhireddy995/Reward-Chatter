@@ -1,7 +1,7 @@
 # retail-rewards program to its customers, awarding points based on each recorded purchase, created a dataset for a three month period.
 
 # Tech Spec
-## HTML5
+###### HTML5
 ###### CSS
 ###### Bootstrap
 ###### Javascript
