@@ -3,10 +3,10 @@
 # Tech Spec
 
 ## HTML5
-## CSS
-## Bootstrap
-## Javascript
-## React
+CSS
+Bootstrap
+Javascript
+React
 
 # Step to run
 
