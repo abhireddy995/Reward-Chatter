@@ -3,7 +3,7 @@
 # Tech Spec
 
 ## HTML5
-######CSS
+###### CSS
 Bootstrap
 Javascript
 React
